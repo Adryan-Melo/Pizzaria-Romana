@@ -1,7 +1,7 @@
 
 body{
     font-family: "Roboto", sans-serif;
-    background-color:rgba(172, 21, 21, 0.144); ;
+    background-color:rgba(172, 21, 21, 0.144); 
 }
 
 section{
@@ -50,7 +50,7 @@ form{
 }
 
 .container{
-    margin:auto
+    margin:auto;
 }
 i,
 .navbar-brand:hover{
