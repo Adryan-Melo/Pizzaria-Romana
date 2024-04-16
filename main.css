@@ -89,3 +89,8 @@ span{
     display: inline-flex;
     
 }
+
+.navbar-expand-lg .navbar-collapse{
+    flex-direction: column;
+    align-items: flex-end;
+}
