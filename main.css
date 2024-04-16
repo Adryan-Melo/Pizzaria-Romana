@@ -52,7 +52,9 @@ form{
 .container{
     margin:auto;
 }
-
+i,
+.navbar-brand:hover{
+    color: white;
 }
 
 .nav-pills .nav-link.active{
@@ -91,4 +93,9 @@ span{
 .navbar-expand-lg .navbar-collapse{
     flex-direction: column;
     align-items: flex-end;
+    color: white;
 }
+.navbar-expand-lg .navbar-collapse:houver{
+color:none;
+}
+
