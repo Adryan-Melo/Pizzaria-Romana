@@ -1,4 +1,4 @@
-Esse site contem um Bootstrap avançado, tendo todo seu layout contuído com esse framework!
+Esse site contem um Bootstrap avançado, tendo todo seu layout construído com esse framework!
 
 Site publicado online!
 Visite em:
